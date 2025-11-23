@@ -1,0 +1,229 @@
+{
+  "common": {
+    "home": "الرئيسية",
+    "shop": "المتجر",
+    "products": "المنتجات",
+    "categories": "الفئات",
+    "brands": "العلامات التجارية",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "blog": "المدونة",
+    "cart": "عربة التسوق",
+    "wishlist": "قائمة الرغبات",
+    "account": "الحساب",
+    "login": "تسجيل الدخول",
+    "register": "التسجيل",
+    "logout": "تسجيل الخروج",
+    "search": "بحث",
+    "searchPlaceholder": "البحث في المنتجات...",
+    "loading": "جار التحميل...",
+    "error": "خطأ",
+    "success": "نجاح",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "confirm": "تأكيد",
+    "close": "إغلاق",
+    "viewAll": "عرض الكل",
+    "learnMore": "اعرف أكثر",
+    "readMore": "اقرأ المزيد",
+    "showMore": "عرض المزيد",
+    "showLess": "عرض أقل",
+    "addToCart": "أضف إلى السلة",
+    "buyNow": "اشتري الآن",
+    "outOfStock": "نفذ من المخزون",
+    "inStock": "متوفر",
+    "price": "السعر",
+    "discount": "خصم",
+    "total": "المجموع",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "tax": "الضريبة",
+    "free": "مجاني",
+    "currency": "ريال"
+  },
+  "nav": {
+    "skincare": "العناية بالبشرة",
+    "makeup": "المكياج",
+    "haircare": "العناية بالشعر",
+    "fragrance": "العطور",
+    "bodycare": "العناية بالجسم",
+    "mens": "منتجات الرجال",
+    "offers": "العروض",
+    "newArrivals": "وصل حديثاً",
+    "bestSellers": "الأكثر مبيعاً"
+  },
+  "home": {
+    "hero": {
+      "title": "جمال لا مثيل له، عناية لا حدود لها",
+      "subtitle": "اكتشف أفضل منتجات التجميل والعناية في العالم",
+      "cta": "تصفح المنتجات"
+    },
+    "features": {
+      "freeShipping": {
+        "title": "شحن مجاني",
+        "description": "للطلبات فوق 500 ألف تومان"
+      },
+      "support": {
+        "title": "دعم 24/7",
+        "description": "نحن دائماً معك"
+      },
+      "secure": {
+        "title": "دفع آمن",
+        "description": "عبر بوابات موثوقة"
+      },
+      "quality": {
+        "title": "جودة مضمونة",
+        "description": "منتجات أصلية ومعتمدة"
+      }
+    },
+    "sections": {
+      "featured": "المنتجات المميزة",
+      "newArrivals": "أحدث المنتجات",
+      "bestSellers": "الأكثر مبيعاً",
+      "categories": "فئات المنتجات",
+      "brands": "العلامات التجارية الشهيرة"
+    }
+  },
+  "product": {
+    "details": "تفاصيل المنتج",
+    "description": "الوصف",
+    "specifications": "المواصفات",
+    "reviews": "التقييمات",
+    "relatedProducts": "منتجات ذات صلة",
+    "addReview": "إضافة تقييم",
+    "rating": "التقييم",
+    "reviewCount": "تقييم",
+    "sku": "رمز المنتج",
+    "category": "الفئة",
+    "brand": "العلامة التجارية",
+    "tags": "الوسوم",
+    "share": "مشاركة",
+    "availability": "التوفر",
+    "quantity": "الكمية",
+    "selectVariant": "اختر الخيار",
+    "addToWishlist": "أضف إلى المفضلة",
+    "compareProducts": "قارن المنتجات",
+    "sizeGuide": "دليل المقاسات"
+  },
+  "cart": {
+    "title": "عربة التسوق",
+    "empty": "عربة التسوق فارغة",
+    "continueShopping": "متابعة التسوق",
+    "remove": "إزالة",
+    "update": "تحديث",
+    "applyCoupon": "تطبيق كود الخصم",
+    "couponCode": "كود الخصم",
+    "apply": "تطبيق",
+    "orderSummary": "ملخص الطلب",
+    "proceedToCheckout": "المتابعة للدفع",
+    "itemsInCart": "منتج في السلة",
+    "updateCart": "تحديث السلة"
+  },
+  "checkout": {
+    "title": "إتمام الطلب",
+    "shipping": "معلومات الشحن",
+    "payment": "الدفع",
+    "review": "المراجعة النهائية",
+    "shippingAddress": "عنوان الشحن",
+    "billingAddress": "عنوان الفاتورة",
+    "sameAsShipping": "نفس عنوان الشحن",
+    "paymentMethod": "طريقة الدفع",
+    "placeOrder": "تأكيد الطلب",
+    "orderPlaced": "تم تأكيد الطلب",
+    "orderNumber": "رقم الطلب",
+    "thankYou": "شكراً لطلبك!",
+    "fullName": "الاسم الكامل",
+    "phone": "رقم الهاتف",
+    "email": "البريد الإلكتروني",
+    "address": "العنوان",
+    "city": "المدينة",
+    "province": "المحافظة",
+    "postalCode": "الرمز البريدي"
+  },
+  "account": {
+    "title": "حسابي",
+    "dashboard": "لوحة التحكم",
+    "orders": "الطلبات",
+    "wishlist": "المفضلة",
+    "addresses": "العناوين",
+    "accountDetails": "تفاصيل الحساب",
+    "changePassword": "تغيير كلمة المرور",
+    "orderHistory": "سجل الطلبات",
+    "orderDetails": "تفاصيل الطلب",
+    "trackOrder": "تتبع الطلب",
+    "viewOrder": "عرض الطلب",
+    "reorder": "إعادة الطلب",
+    "addAddress": "إضافة عنوان",
+    "editAddress": "تعديل العنوان",
+    "deleteAddress": "حذف العنوان",
+    "setDefaultAddress": "تعيين كعنوان افتراضي",
+    "personalInfo": "المعلومات الشخصية",
+    "updateProfile": "تحديث الملف الشخصي",
+    "currentPassword": "كلمة المرور الحالية",
+    "newPassword": "كلمة المرور الجديدة",
+    "confirmPassword": "تأكيد كلمة المرور"
+  },
+  "auth": {
+    "loginTitle": "تسجيل الدخول",
+    "registerTitle": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "نسيت كلمة المرور",
+    "noAccount": "ليس لديك حساب؟",
+    "haveAccount": "لديك حساب؟",
+    "createAccount": "إنشاء حساب",
+    "signIn": "تسجيل الدخول",
+    "signUp": "التسجيل",
+    "name": "الاسم الكامل",
+    "phone": "رقم الهاتف",
+    "agreeTerms": "أوافق على الشروط والأحكام",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "sendResetLink": "إرسال رابط إعادة التعيين",
+    "backToLogin": "العودة لتسجيل الدخول"
+  },
+  "footer": {
+    "aboutUs": "عن بي لوك",
+    "aboutText": "بي لوك هو أحد أكثر المتاجر الإلكترونية موثوقية لمنتجات التجميل والعناية في إيران. نحن ملتزمون بتقديم منتجات أصلية وعالية الجودة.",
+    "quickLinks": "روابط سريعة",
+    "customerService": "خدمة العملاء",
+    "newsletter": "النشرة الإخبارية",
+    "newsletterText": "اشترك للحصول على آخر الأخبار والعروض",
+    "subscribe": "اشتراك",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "followUs": "تابعنا",
+    "paymentMethods": "طرق الدفع",
+    "allRightsReserved": "جميع الحقوق محفوظة",
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfService": "الشروط والأحكام",
+    "returnPolicy": "سياسة الإرجاع",
+    "shippingInfo": "معلومات الشحن",
+    "faq": "الأسئلة الشائعة",
+    "contactUs": "اتصل بنا"
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "email": "أدخل بريد إلكتروني صالح",
+    "phone": "أدخل رقم هاتف صالح",
+    "minLength": "الحد الأدنى {min} حرف",
+    "maxLength": "الحد الأقصى {max} حرف",
+    "passwordMatch": "كلمات المرور غير متطابقة",
+    "invalidFormat": "تنسيق غير صالح"
+  },
+  "seo": {
+    "home": {
+      "title": "بي لوك - متجر منتجات التجميل والعناية الإلكتروني",
+      "description": "شراء منتجات التجميل والعناية الأصلية بأفضل الأسعار مع شحن مجاني"
+    },
+    "products": {
+      "title": "المنتجات - بي لوك",
+      "description": "عرض وشراء منتجات التجميل والعناية الأصلية"
+    },
+    "cart": {
+      "title": "عربة التسوق - بي لوك",
+      "description": "عربة التسوق الخاصة بك"
+    }
+  }
+}

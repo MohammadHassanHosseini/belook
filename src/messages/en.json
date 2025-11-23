@@ -1,0 +1,174 @@
+{
+  "common": {
+    "home": "Home",
+    "shop": "Shop",
+    "products": "Products",
+    "categories": "Categories",
+    "brands": "Brands",
+    "about": "About Us",
+    "contact": "Contact",
+    "blog": "Blog",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "account": "Account",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "search": "Search",
+    "searchPlaceholder": "Search products...",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "close": "Close",
+    "viewAll": "View All",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "price": "Price",
+    "discount": "Discount",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "free": "Free",
+    "currency": "USD"
+  },
+  "nav": {
+    "skincare": "Skincare",
+    "makeup": "Makeup",
+    "haircare": "Haircare",
+    "fragrance": "Fragrance",
+    "bodycare": "Body Care",
+    "mens": "Men's",
+    "offers": "Offers",
+    "newArrivals": "New Arrivals",
+    "bestSellers": "Best Sellers"
+  },
+  "home": {
+    "hero": {
+      "title": "Unparalleled Beauty, Limitless Care",
+      "subtitle": "Discover the world's finest cosmetics",
+      "cta": "Explore Products"
+    },
+    "features": {
+      "freeShipping": {
+        "title": "Free Shipping",
+        "description": "On orders over $50"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Always here for you"
+      },
+      "secure": {
+        "title": "Secure Payment",
+        "description": "Trusted gateways"
+      },
+      "quality": {
+        "title": "Guaranteed Quality",
+        "description": "Authentic products"
+      }
+    },
+    "sections": {
+      "featured": "Featured Products",
+      "newArrivals": "New Arrivals",
+      "bestSellers": "Best Sellers",
+      "categories": "Categories",
+      "brands": "Popular Brands"
+    }
+  },
+  "product": {
+    "details": "Details",
+    "description": "Description",
+    "reviews": "Reviews",
+    "rating": "Rating",
+    "sku": "SKU",
+    "category": "Category",
+    "brand": "Brand",
+    "availability": "Availability",
+    "quantity": "Quantity"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "proceedToCheckout": "Checkout"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "placeOrder": "Place Order"
+  },
+  "account": {
+    "title": "Account",
+    "orders": "Orders",
+    "wishlist": "Wishlist"
+  },
+  "auth": {
+    "loginTitle": "Login",
+    "registerTitle": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "agreeTerms": "I agree to the terms and conditions",
+    "resetPassword": "Reset Password",
+    "sendResetLink": "Send Reset Link",
+    "backToLogin": "Back to Login"
+  },
+  "footer": {
+    "aboutUs": "About Belook",
+    "aboutText": "Belook is one of the most trusted online stores for cosmetics and skincare products. We are committed to providing authentic and high-quality products.",
+    "quickLinks": "Quick Links",
+    "customerService": "Customer Service",
+    "newsletter": "Newsletter",
+    "newsletterText": "Subscribe to receive the latest news and offers",
+    "subscribe": "Subscribe",
+    "emailPlaceholder": "Enter your email",
+    "followUs": "Follow Us",
+    "paymentMethods": "Payment Methods",
+    "allRightsReserved": "All Rights Reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "returnPolicy": "Return Policy",
+    "shippingInfo": "Shipping Information",
+    "faq": "FAQ",
+    "contactUs": "Contact Us"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Enter a valid email",
+    "phone": "Enter a valid phone number",
+    "minLength": "Minimum {min} characters",
+    "maxLength": "Maximum {max} characters",
+    "passwordMatch": "Passwords do not match",
+    "invalidFormat": "Invalid format"
+  },
+  "seo": {
+    "home": {
+      "title": "Belook - Online Cosmetics & Skincare Store",
+      "description": "Shop authentic cosmetics and skincare products with the best prices and free shipping"
+    },
+    "products": {
+      "title": "Products - Belook",
+      "description": "Browse and buy authentic cosmetics and skincare products"
+    },
+    "cart": {
+      "title": "Shopping Cart - Belook",
+      "description": "Your shopping cart"
+    }
+  }
+}

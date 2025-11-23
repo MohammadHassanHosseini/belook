@@ -1,0 +1,229 @@
+{
+  "common": {
+    "home": "خانه",
+    "shop": "فروشگاه",
+    "products": "محصولات",
+    "categories": "دسته‌بندی‌ها",
+    "brands": "برندها",
+    "about": "درباره ما",
+    "contact": "تماس با بی لوک",
+    "blog": "بلاگ",
+    "cart": "سبد خرید",
+    "wishlist": "علاقه‌مندی‌ها",
+    "account": "حساب کاربری",
+    "login": "ورود",
+    "register": "ثبت‌نام",
+    "logout": "خروج",
+    "search": "جستجو",
+    "searchPlaceholder": "جستجو در محصولات...",
+    "loading": "در حال بارگذاری...",
+    "error": "خطا",
+    "success": "موفق",
+    "cancel": "لغو",
+    "save": "ذخیره",
+    "edit": "ویرایش",
+    "delete": "حذف",
+    "confirm": "تأیید",
+    "close": "بستن",
+    "viewAll": "مشاهده همه",
+    "learnMore": "بیشتر بدانید",
+    "readMore": "ادامه مطلب",
+    "showMore": "نمایش بیشتر",
+    "showLess": "نمایش کمتر",
+    "addToCart": "افزودن به سبد",
+    "buyNow": "خرید سریع",
+    "outOfStock": "ناموجود",
+    "inStock": "موجود",
+    "price": "قیمت",
+    "discount": "تخفیف",
+    "total": "جمع کل",
+    "subtotal": "جمع جزء",
+    "shipping": "ارسال",
+    "tax": "مالیات",
+    "free": "رایگان",
+    "currency": "تومان"
+  },
+  "nav": {
+    "skincare": "مراقبت پوست",
+    "makeup": "آرایش",
+    "haircare": "مراقبت مو",
+    "fragrance": "عطر و ادکلن",
+    "bodycare": "مراقبت بدن",
+    "mens": "محصولات آقایان",
+    "offers": "پیشنهادها",
+    "newArrivals": "جدیدترین‌ها",
+    "bestSellers": "پرفروش‌ترین‌ها"
+  },
+  "home": {
+    "hero": {
+      "title": "زیبایی بی‌نظیر، مراقبت بی‌حد",
+      "subtitle": "با بهترین محصولات آرایشی و بهداشتی جهان آشنا شوید",
+      "cta": "کاوش در محصولات"
+    },
+    "features": {
+      "freeShipping": {
+        "title": "ارسال رایگان",
+        "description": "برای خریدهای بالای ۵۰۰ هزار تومان"
+      },
+      "support": {
+        "title": "پشتیبانی ۲۴/۷",
+        "description": "همیشه در کنار شما هستیم"
+      },
+      "secure": {
+        "title": "پرداخت امن",
+        "description": "با درگاه‌های معتبر"
+      },
+      "quality": {
+        "title": "کیفیت تضمین شده",
+        "description": "محصولات اصل و اورجینال"
+      }
+    },
+    "sections": {
+      "featured": "محصولات ویژه",
+      "newArrivals": "جدیدترین محصولات",
+      "bestSellers": "پرفروش‌ترین‌ها",
+      "categories": "دسته‌بندی محصولات",
+      "brands": "برندهای محبوب"
+    }
+  },
+  "product": {
+    "details": "جزئیات محصول",
+    "description": "توضیحات",
+    "specifications": "مشخصات",
+    "reviews": "نظرات",
+    "relatedProducts": "محصولات مرتبط",
+    "addReview": "ثبت نظر",
+    "rating": "امتیاز",
+    "reviewCount": "نظر",
+    "sku": "کد محصول",
+    "category": "دسته‌بندی",
+    "brand": "برند",
+    "tags": "برچسب‌ها",
+    "share": "اشتراک‌گذاری",
+    "availability": "موجودی",
+    "quantity": "تعداد",
+    "selectVariant": "انتخاب گزینه",
+    "addToWishlist": "افزودن به علاقه‌مندی‌ها",
+    "compareProducts": "مقایسه محصولات",
+    "sizeGuide": "راهنمای سایز"
+  },
+  "cart": {
+    "title": "سبد خرید",
+    "empty": "سبد خرید شما خالی است",
+    "continueShopping": "ادامه خرید",
+    "remove": "حذف",
+    "update": "بروزرسانی",
+    "applyCoupon": "اعمال کد تخفیف",
+    "couponCode": "کد تخفیف",
+    "apply": "اعمال",
+    "orderSummary": "خلاصه سفارش",
+    "proceedToCheckout": "ادامه فرآیند خرید",
+    "itemsInCart": "محصول در سبد",
+    "updateCart": "بروزرسانی سبد"
+  },
+  "checkout": {
+    "title": "تسویه حساب",
+    "shipping": "اطلاعات ارسال",
+    "payment": "پرداخت",
+    "review": "بررسی نهایی",
+    "shippingAddress": "آدرس ارسال",
+    "billingAddress": "آدرس صورتحساب",
+    "sameAsShipping": "مشابه آدرس ارسال",
+    "paymentMethod": "روش پرداخت",
+    "placeOrder": "ثبت سفارش",
+    "orderPlaced": "سفارش ثبت شد",
+    "orderNumber": "شماره سفارش",
+    "thankYou": "از خرید شما متشکریم!",
+    "fullName": "نام و نام خانوادگی",
+    "phone": "شماره تماس",
+    "email": "ایمیل",
+    "address": "آدرس",
+    "city": "شهر",
+    "province": "استان",
+    "postalCode": "کد پستی"
+  },
+  "account": {
+    "title": "حساب کاربری",
+    "dashboard": "داشبورد",
+    "orders": "سفارشات",
+    "wishlist": "علاقه‌مندی‌ها",
+    "addresses": "آدرس‌ها",
+    "accountDetails": "جزئیات حساب",
+    "changePassword": "تغییر رمز عبور",
+    "orderHistory": "تاریخچه سفارشات",
+    "orderDetails": "جزئیات سفارش",
+    "trackOrder": "پیگیری سفارش",
+    "viewOrder": "مشاهده سفارش",
+    "reorder": "سفارش مجدد",
+    "addAddress": "افزودن آدرس",
+    "editAddress": "ویرایش آدرس",
+    "deleteAddress": "حذف آدرس",
+    "setDefaultAddress": "تنظیم به عنوان آدرس پیش‌فرض",
+    "personalInfo": "اطلاعات شخصی",
+    "updateProfile": "بروزرسانی پروفایل",
+    "currentPassword": "رمز عبور فعلی",
+    "newPassword": "رمز عبور جدید",
+    "confirmPassword": "تأیید رمز عبور"
+  },
+  "auth": {
+    "loginTitle": "ورود به حساب کاربری",
+    "registerTitle": "ثبت‌نام",
+    "email": "ایمیل",
+    "password": "رمز عبور",
+    "rememberMe": "مرا به خاطر بسپار",
+    "forgotPassword": "فراموشی رمز عبور",
+    "noAccount": "حساب کاربری ندارید؟",
+    "haveAccount": "حساب کاربری دارید؟",
+    "createAccount": "ایجاد حساب",
+    "signIn": "ورود",
+    "signUp": "ثبت‌نام",
+    "name": "نام و نام خانوادگی",
+    "phone": "شماره موبایل",
+    "agreeTerms": "با قوانین و مقررات موافقم",
+    "resetPassword": "بازیابی رمز عبور",
+    "sendResetLink": "ارسال لینک بازیابی",
+    "backToLogin": "بازگشت به صفحه ورود"
+  },
+  "footer": {
+    "aboutUs": "درباره بی لوک",
+    "aboutText": "بی لوک یکی از معتبرترین فروشگاه‌های آنلاین محصولات آرایشی و بهداشتی در ایران است. ما متعهد به ارائه محصولات با کیفیت و اصل هستیم.",
+    "quickLinks": "لینک‌های سریع",
+    "customerService": "خدمات مشتریان",
+    "newsletter": "عضویت در خبرنامه",
+    "newsletterText": "برای دریافت جدیدترین اخبار و تخفیف‌ها عضو شوید",
+    "subscribe": "عضویت",
+    "emailPlaceholder": "ایمیل خود را وارد کنید",
+    "followUs": "ما را دنبال کنید",
+    "paymentMethods": "روش‌های پرداخت",
+    "allRightsReserved": "تمامی حقوق محفوظ است",
+    "privacyPolicy": "حریم خصوصی",
+    "termsOfService": "قوانین و مقررات",
+    "returnPolicy": "قوانین بازگشت کالا",
+    "shippingInfo": "اطلاعات ارسال",
+    "faq": "سوالات متداول",
+    "contactUs": "تماس با ما"
+  },
+  "validation": {
+    "required": "این فیلد الزامی است",
+    "email": "ایمیل معتبر وارد کنید",
+    "phone": "شماره تلفن معتبر وارد کنید",
+    "minLength": "حداقل {min} کاراکتر",
+    "maxLength": "حداکثر {max} کاراکتر",
+    "passwordMatch": "رمزهای عبور مطابقت ندارند",
+    "invalidFormat": "فرمت نامعتبر"
+  },
+  "seo": {
+    "home": {
+      "title": "بی لوک - فروشگاه آنلاین محصولات آرایشی و بهداشتی",
+      "description": "خرید محصولات اصل آرایشی، بهداشتی و مراقبت پوست با بهترین قیمت و ارسال رایگان"
+    },
+    "products": {
+      "title": "محصولات - بی لوک",
+      "description": "مشاهده و خرید انواع محصولات آرایشی و بهداشتی اورجینال"
+    },
+    "cart": {
+      "title": "سبد خرید - بی لوک",
+      "description": "سبد خرید شما"
+    }
+  }
+}
